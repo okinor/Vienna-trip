@@ -1,0 +1,233 @@
+a {
+  color: #eaf6f6;
+  font-family: 'Merriweather', serif;
+  font-size: 1.5rem;
+  text-decoration: none;
+}
+
+a:hover {
+  color: #8bd5cb;
+}
+
+body {
+  margin: 0;
+  position: relative;
+}
+
+h1 {
+  font-family: 'Sacramento', cursive;
+  font-size: 100px;
+  margin: 40px auto 0;
+  padding-top: 10px;
+}
+
+h2 {
+  font-family: 'Raleway', sans-serif;
+}
+
+h3 {
+  font-family: 'Raleway', sans-serif;
+}
+
+hr {
+  border-style: none;
+  border-color: grey;
+  border-top-style: dotted;
+  border-width: 5px;
+  width: 3%;
+  border-top-color: #eaf6f6;
+}
+
+ol {
+  font-family: 'Merriweather', serif;
+  text-align: center;
+}
+
+p {
+  font-family: 'Merriweather', serif;
+}
+
+table {
+  border: 1px solid black;
+  border-collapse: collapse;
+  margin-bottom: 19.920px;
+}
+
+td {
+  border: 1px solid black;
+  font-family: 'Merriweather', serif;
+  padding: 5px 20px 5px 5px;
+  text-align: left;
+  vertical-align: top;
+}
+
+th {
+  border: 1px solid black;
+  font-family: 'Raleway', sans-serif;
+}
+
+ul {
+  font-family: 'Merriweather', serif;
+  text-align: left;
+}
+
+.before {
+  line-height: 2;
+  margin: 100px auto;
+  width: 55%;
+}
+
+.bottom {
+  background-color: #841818;
+  padding-bottom: 22.5px;
+  text-align: center;
+}
+
+.bottom-snow {
+  left: 540px;
+  top: 150px;
+  position: absolute;
+  width: 4%;
+}
+
+.castle {
+  width: 22%;
+}
+
+.cell-links {
+  color: blue;
+  font-size: 1rem;
+  text-decoration: underline;
+}
+
+.cell-links:hover{
+  color: blue;
+}
+
+.day5 {
+  margin-bottom: 242px;
+}
+
+.daylink {
+margin: 0 10px;
+}
+
+.days {
+  position: absolute;
+  right: 15px;
+  top: 20px;
+}
+
+.explanation {
+  line-height: 2;
+  margin: 100px auto;
+  width: 55%;
+}
+
+.hello {
+  width: 17%;
+}
+
+.home {
+left: 15px;
+position: absolute;
+top: 20px;
+}
+
+.introduction {
+  line-height: 2;
+  margin: 100px auto;
+  width: 45%;
+}
+
+.left-deco {
+  left: 220px;
+  position: absolute;
+  top: -96px;
+  width: 15%;
+}
+
+.left-float {
+float: left;
+margin-right: 30px;
+width: 23%;
+}
+
+.left-para {
+  text-align: left;
+}
+
+.middle-home {
+  position: relative;
+  text-align: center;
+}
+
+.middle-tips {
+  margin: 40px auto;
+  text-align: center;
+}
+
+.opening-tips {
+  margin: 0 auto 100px;
+  width: 33%;
+}
+
+.right-deco {
+  position: absolute;
+  right: 220px;
+  top: -30px;
+  width: 12%;
+}
+
+.right-float {
+float: right;
+margin-left: 30px;
+width: 23%;
+}
+
+.schedule-line {
+  margin-top: 19.920px;
+  text-decoration: underline;
+}
+
+.tip-img {
+  width: 15%;
+}
+
+.tips-row {
+line-height: 2;
+margin: 100px auto;
+text-align: left;
+width: 60%;
+}
+
+.to-vienna {
+  padding-left: 150px;
+}
+
+.toolbar {
+  background-color: #841818;
+  padding-top: 60px;
+  position: relative;
+}
+
+.top-deco {
+  position: absolute;
+  top: -40px;
+  right: 640px;
+  width: 4%;
+}
+
+.top-snow {
+  right: 510px;
+  top: 240px;
+  position: absolute;
+  width: 4%;
+}
+
+.zhuyot {
+  color: #eaf6f6;
+  font-size: 0.75rem;
+  margin: 0;
+  padding-top: 22.5px;
+}
